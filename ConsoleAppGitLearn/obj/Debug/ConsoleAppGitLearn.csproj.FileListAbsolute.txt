@@ -1,0 +1,6 @@
+C:\Users\kaysh\OneDrive\Desktop\Work\c# works\Spl_Day1\ConsoleAppGitLearnSolution\ConsoleAppGitLearn\bin\Debug\ConsoleAppGitLearn.exe.config
+C:\Users\kaysh\OneDrive\Desktop\Work\c# works\Spl_Day1\ConsoleAppGitLearnSolution\ConsoleAppGitLearn\bin\Debug\ConsoleAppGitLearn.exe
+C:\Users\kaysh\OneDrive\Desktop\Work\c# works\Spl_Day1\ConsoleAppGitLearnSolution\ConsoleAppGitLearn\bin\Debug\ConsoleAppGitLearn.pdb
+C:\Users\kaysh\OneDrive\Desktop\Work\c# works\Spl_Day1\ConsoleAppGitLearnSolution\ConsoleAppGitLearn\obj\Debug\ConsoleAppGitLearn.csproj.CoreCompileInputs.cache
+C:\Users\kaysh\OneDrive\Desktop\Work\c# works\Spl_Day1\ConsoleAppGitLearnSolution\ConsoleAppGitLearn\obj\Debug\ConsoleAppGitLearn.exe
+C:\Users\kaysh\OneDrive\Desktop\Work\c# works\Spl_Day1\ConsoleAppGitLearnSolution\ConsoleAppGitLearn\obj\Debug\ConsoleAppGitLearn.pdb
